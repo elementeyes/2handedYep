@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "YEP/1.0.0": {
+        "dependencies": {
+          "CharacterBuilder": "1.0.0"
+        },
+        "runtime": {
+          "YEP.dll": {}
+        }
+      },
+      "CharacterBuilder/1.0.0": {
+        "runtime": {
+          "CharacterBuilder.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "YEP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CharacterBuilder/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
