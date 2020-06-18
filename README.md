@@ -6,6 +6,4 @@ Bridge is used for selecting character type(melee or ranged) and then both have 
 
 State pattern is used for the state game,when selecting a character u start the state game which has 4 states(attacking,moving,panicing,resting).
 
-Starting state is resting,
-
-based on user input game changes state.
+Starting state is resting, based on user input game changes state.
